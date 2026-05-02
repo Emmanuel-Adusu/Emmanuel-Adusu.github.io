@@ -27,7 +27,6 @@ This template is set up to showcase your best work. You can easily customize the
 
 ## 🛠️ Skills & Tools
 
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 - **Programming**: Python (Pandas, Scikit-learn, Matplotlib, etc..), and SQL.
 - **Data Analytics & BI**: ​​Power BI(Power Query, DAX, Star Schema Design, Data visualization), Tableau, excel, Data Storytelling, Exploratory Data Analysis (EDA).
 
